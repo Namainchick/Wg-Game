@@ -1,0 +1,60 @@
+{
+  "wgs": [
+    {
+      "id": "wg_1745607726225_o7s046eg8",
+      "name": "forstweg",
+      "members": [
+        {
+          "id": "1",
+          "name": "Namanh",
+          "points": 10
+        },
+        {
+          "name": "youssef",
+          "points": 0
+        },
+        {
+          "name": "Tim",
+          "points": 0
+        }
+      ],
+      "tasks": [
+        {
+          "id": "uvko4uuvt",
+          "title": "kitchen",
+          "description": "clean the floor and do the dishes",
+          "points": 10,
+          "createdBy": {
+            "name": "youssef",
+            "points": 0
+          },
+          "isCompleted": true,
+          "completedBy": {
+            "name": "Namanh",
+            "points": 0
+          }
+        }
+      ],
+      "taskHistory": [
+        {
+          "taskId": "uvko4uuvt",
+          "taskTitle": "kitchen",
+          "points": 10,
+          "completedBy": "Namanh",
+          "completedAt": "2025-04-25T19:06:28.930Z"
+        }
+      ],
+      "shoppingList": [
+        {
+          "id": "0.1785178597752357",
+          "name": "toilet paper",
+          "quantity": 1,
+          "unit": "Stück",
+          "addedBy": "youssef",
+          "isPurchased": true,
+          "purchasedBy": "Namanh"
+        }
+      ]
+    }
+  ]
+}
